@@ -15,7 +15,8 @@ AI 개발자를 위한 새로운 프로그래밍 언어 (Python의 사용성과 
 - `AI 및 머신러닝 최적화`: GPU 및 CPU를 효과적으로 활용 가능
 - `메모리 안전성`: Rust와 유사한 메모리 관리 기능 제공
 <pre>
-Mojo는 AI 및 머신러닝 개발을 위한 강력한 도구로 자리 잡고 있으며, 기존 Python 개발자들이 쉽게 접근할 수 있도록 설계
+Mojo는 AI 및 머신러닝 개발을 위한 강력한 도구로 자리 잡고 있으며, <br/>
+기존 Python 개발자들이 쉽게 접근할 수 있도록 설계
 </pre>
 System requirements: <br/>
 <img src="./images/system_required.png">
